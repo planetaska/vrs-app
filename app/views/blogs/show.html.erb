@@ -1,5 +1,8 @@
 <p style="color: green"><%= notice %></p>
 
+<%= content_tag :div, "", id: "blogs-show", data: {title: @blog.title, article: @blog.article}%>
+<%= vite_typescript_tag 'blogs-show'  %>
+
 <%= render @blog %>
 
 <div>
