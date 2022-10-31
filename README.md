@@ -1,14 +1,12 @@
 # README
 
-This is an example app of Vite Rails 7 with Svelte integration.
+This is an example app of Vite Rails 7 with Svelte integration with TypeScript support.
+
+[https://way-too-mainstream.vercel.app/articles/using-svelte-typescript-in-rails-7-vite-tutorial](https://way-too-mainstream.vercel.app/articles/using-svelte-typescript-in-rails-7-vite-tutorial)
 
 * Ruby version
 
 3.1.2
-
-* System dependencies
-
-None
 
 * Configuration
 
@@ -27,10 +25,3 @@ This app was created with the following command:
 * How to run the test suite
 
 `rails test`
-
-* Services (job queues, cache servers, search engines, etc.)
-
-None
-
-* Deployment instructions
-
